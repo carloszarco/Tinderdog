@@ -1,2 +1,1 @@
-# Tinderdog
-Tinderdog - Angela yu project. 
+TinDog Starting Files
